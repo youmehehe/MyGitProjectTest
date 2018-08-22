@@ -134,6 +134,10 @@ void testGit(void)
 {
 
 }
+void testGit2(void)
+{
+
+}
 
 /**
   * @brief  Main program.
