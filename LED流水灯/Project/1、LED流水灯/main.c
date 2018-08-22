@@ -129,6 +129,12 @@ static void Delay_ARMJISHU(__IO uint32_t nCount)
   for (; nCount != 0; nCount--);
 }
 
+
+void testGit(void)
+{
+
+}
+
 /**
   * @brief  Main program.
   * @param  None
