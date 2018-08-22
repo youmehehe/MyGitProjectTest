@@ -1,0 +1,4 @@
+--cpu Cortex-M3 ".\神舟iv号\stm32f10x_it.o" ".\神舟iv号\main.o" ".\神舟iv号\stm32f10x_gpio.o" ".\神舟iv号\misc.o" ".\神舟iv号\stm32f10x_exti.o" ".\神舟iv号\stm32f10x_spi.o" ".\神舟iv号\stm32f10x_fsmc.o" ".\神舟iv号\stm32f10x_usart.o" ".\神舟iv号\stm32f10x_sdio.o" ".\神舟iv号\stm32f10x_dma.o" ".\神舟iv号\stm32f10x_i2c.o" ".\神舟iv号\stm32f10x_rcc.o" ".\神舟iv号\stm32f10x.o" --library_type=microlib --strict --scatter ".\神舟IV号\ARMJISHU_LED流水灯.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\神舟IV号\ARMJISHU_LED流水灯.map" -o ".\神舟IV号\ARMJISHU_LED流水灯.axf"

@@ -1,0 +1,35 @@
+*** Creating Trace Output File '.\STM32F10X_XL\STM32F10X_XL_BANK1.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_it.o"'
+### List of Objects: adding '".\stm32f10x_xl\main.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_rcc.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_gpio.o"'
+### List of Objects: adding '".\stm32f10x_xl\misc.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_exti.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_spi.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_fsmc.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_usart.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_sdio.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_dma.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_i2c.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32f10x_flash.o"'
+### List of Objects: adding '".\stm32f10x_xl\system_stm32f10x.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm32_eval.o"'
+### List of Objects: adding '".\stm32f10x_xl\stm3210e_eval_lcd.o"'
+### List of Objects: adding '".\stm32f10x_xl\startup_stm32f10x_xl.o"'
+### ADS-LD Command completed:
+--device DARMSTM ".\stm32f10x_xl\stm32f10x_it.o" ".\stm32f10x_xl\main.o" ".\stm32f10x_xl\stm32f10x_rcc.o" ".\stm32f10x_xl\stm32f10x_gpio.o" ".\stm32f10x_xl\misc.o" ".\stm32f10x_xl\stm32f10x_exti.o" ".\stm32f10x_xl\stm32f10x_spi.o" ".\stm32f10x_xl\stm32f10x_fsmc.o" ".\stm32f10x_xl\stm32f10x_usart.o" ".\stm32f10x_xl\stm32f10x_sdio.o" ".\stm32f10x_xl\stm32f10x_dma.o" ".\stm32f10x_xl\stm32f10x_i2c.o" ".\stm32f10x_xl\stm32f10x_flash.o" ".\stm32f10x_xl\system_stm32f10x.o" ".\stm32f10x_xl\stm32_eval.o" ".\stm32f10x_xl\stm3210e_eval_lcd.o" ".\stm32f10x_xl\startup_stm32f10x_xl.o" --library_type=microlib --strict --scatter ".\STM32F10X_XL\STM32F10X_XL_BANK1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\STM32F10X_XL\STM32F10X_XL_BANK1.map" -o ".\STM32F10X_XL\STM32F10X_XL_BANK1.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\STM32F10X_XL\STM32F10X_XL_BANK1.axf'
+### ADS-LD Command File: '.\STM32F10X_XL\STM32F10X_XL_BANK1.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\STM32F10X_XL\STM32F10X_XL_BANK1.lnp', Handle=0x00000290
+### Writing '.lnp' file
+### ADS-LD Command file '.\STM32F10X_XL\STM32F10X_XL_BANK1.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

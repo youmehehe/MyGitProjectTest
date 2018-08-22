@@ -1,0 +1,13 @@
+欢迎使用神舟系列STM32开发板--神舟IV号
+
+本例程使用的库是：STM32F10x_StdPeriph_Lib_V3.3.0
+
+
+例程已经经过验证，其中\Project\XX示例\MDK-ARM\目录下包含MDK（keil）集成开发软件的工程文件，打开其中的“Project.uvproj”即可。
+
+已经成功在MDK4.12软件版本下编译测试。
+
+例程默认调试工具为Jlink V8，使用Jlink V8调试过程请参考视频：
+http://v.youku.com/v_show/id_XMTY0MjMzNzg0.html
+
+最新例程将在ARM技术的官方论坛www.armjishu.com公布，欢迎访问！
